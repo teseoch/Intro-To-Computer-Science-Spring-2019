@@ -79,54 +79,54 @@ The course schedule is tentative and *will* be adjusted along the way.
 ### Part 1: Fundamentals of Programming
 | Lecture | Date | Topic | Chapter | Slides |
 |----|----|----|----|----|
-| 01 | 09/04/2018 | Introduction to computers, programs and Java, command line basics | 1 | |
-| 02 | 09/06/2018 | Primitive data types, program structure, control flow, input/output| 2-3 | |
-| 03 | 09/11/2018 | Mathematical functions, characters, strings, looping| 4-5 ||
-|    | 09/13/2018 | Hands on | | |
-| 04 | 09/18/2018 | Methods | 6 | |
-| 05 | 09/20/2018 | Methods | 6 | |
-| 06 | 09/25/2018 | Single dimensional arrays | 7 | |
-| 07 | 09/27/2018 | Two dimensional arrays | 8 | |
-|    | 10/02/2018 | Hands on | | |
-| 08 | 10/04/2018 | Midterm 1 review | 1-8 | |
-| 09 | 10/11/2018 | Midterm 1 |  | |
+| 01 | xx/xx/2019 | Introduction to computers, programs and Java, command line basics | 1 | |
+| 02 | xx/xx/2019 | Primitive data types, program structure, control flow, input/output| 2-3 | |
+| 03 | xx/xx/2019 | Mathematical functions, characters, strings, looping| 4-5 ||
+|    | xx/xx/2019 | Hands on | | |
+| 04 | xx/xx/2019 | Methods | 6 | |
+| 05 | xx/xx/2019 | Methods | 6 | |
+| 06 | xx/xx/2019 | Single dimensional arrays | 7 | |
+| 07 | xx/xx/2019 | Two dimensional arrays | 8 | |
+|    | xx/xx/2019 | Hands on | | |
+| 08 | xx/xx/2019 | Midterm 1 review | 1-8 | |
+| 09 | xx/xx/2019 | Midterm 1 |  | |
 
 ### Part 2: Object oriented programming and design
 | Lecture | Date | Topic | Chapter | Slides |
 |----|----|----|----|----|
-|    | 10/16/2018 | Hands on | | |
-| 10 | 10/18/2018 | Objects and classes | 9 | |
-|    | 10/23/2018 | Hands on |  | |
-| 11 | 10/25/2018 | Midterm discussion | | |
-| 12 | 10/30/2018 | Object oriented thinking | 10 | |
-| 13 | 11/01/2018 | Object oriented thinking | 10 | |
-| 14 | 11/06/2018 | Midterm 2 review | 1-10 | |
-| 15 | 11/08/2018 | Midterm 2 | | |
+|    | xx/xx/2019 | Hands on | | |
+| 10 | xx/xx/2019 | Objects and classes | 9 | |
+|    | xx/xx/2019 | Hands on |  | |
+| 11 | xx/xx/2019 | Midterm discussion | | |
+| 12 | xx/xx/2019 | Object oriented thinking | 10 | |
+| 13 | xx/xx/2019 | Object oriented thinking | 10 | |
+| 14 | xx/xx/2019 | Midterm 2 review | 1-10 | |
+| 15 | xx/xx/2019 | Midterm 2 | | |
 
 ### Part 3: Advanced concepts
 
 | Lecture | Date | Topic | Chapter | Slides |
 |----|----|----|----|----|
-|    | 11/13/2018 | Hands on | ||
-| 16 | 11/15/2018 | Inheritance and polymorphism | 11 | |
-| 17 | 11/20/2018 | Inheritance and polymorphism and midterm discussion | 11 | |
-| 18 | 11/27/2018 | Abstract classes and interfaces | 13 | |
-| 19 | 11/29/2018 | Abstract classes and interfaces | 13 | |
-|    | 12/04/2018 | Hands on | ||
-| 20 | 12/07/2018 | Exception handling and text I/O | 12 | |
-| 21 | 12/11/2018 | Exception handling and text I/O | 12 | |
-| 22 | 12/13/2018 | Review for the final exam | 1-13, 18 | |
+|    | xx/xx/2019 | Hands on | ||
+| 16 | xx/xx/2019 | Inheritance and polymorphism | 11 | |
+| 17 | xx/xx/2019 | Inheritance and polymorphism and midterm discussion | 11 | |
+| 18 | xx/xx/2019 | Abstract classes and interfaces | 13 | |
+| 19 | xx/xx/2019 | Abstract classes and interfaces | 13 | |
+|    | xx/xx/2019 | Hands on | ||
+| 20 | xx/xx/2019 | Exception handling and text I/O | 12 | |
+| 21 | xx/xx/2019 | Exception handling and text I/O | 12 | |
+| 22 | xx/xx/2019 | Review for the final exam | 1-13, 18 | |
 
 
 ## Hands on activities
 | Number | Date | Material |
 |----|----|----|
-| 01 | 09/13/2018 | |
-| 02 | 09/02/2018 | |
-| 03 | 10/16/2018 | |
-| 04 | 10/25/2018 | |
-| 05 | 11/13/2018 | |
-| 06 | 12/04/2018 | |
+| 01 | xx/xx/2019 | |
+| 02 | xx/xx/2019 | |
+| 03 | xx/xx/2019 | |
+| 04 | xx/xx/2019 | |
+| 05 | xx/xx/2019 | |
+| 06 | xx/xx/2019 | |
 
 
 ## Assignments
