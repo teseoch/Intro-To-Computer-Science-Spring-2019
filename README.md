@@ -10,7 +10,7 @@ URL: [http://cs.nyu.edu/~teseo/](http://cs.nyu.edu/~teseo/)<br>
 
 **Office Hours**: Thursdays, 3:30pm-4:30pm 60 5th Ave, 5th Floor, Office 524<br>
 **Tutoring**:
- <!-- 60 Washington Square South, 4th Floor [schedule](https://github.com/teseoch/Intro-To-Computer-Science-2018/blob/master/material/Fall2018Tutors.pdf) -->
+Kimmel Center, 60 Washington Square South, 4th Floor [schedule](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2019/blob/master/material/Spring-2019-tutor.pdf)
 
 ### Lectures:
 Tuesdays and Thursdays at 2:00pm - 3:15pm<br>
@@ -52,8 +52,8 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 
 ### Misc
 
-<!-- - [Java SDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html) -->
-<!-- - [Getting started](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/getting_started.pdf) -->
+- [Java SDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+- [Getting started](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/material/getting_started.pdf)
 <!-- - [Eclipse](https://www.eclipse.org/) -->
 <!-- - [Getting started Processing](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/getting_started_processing.pdf) -->
 <!-- - [Processing](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/processing.zip) -->
