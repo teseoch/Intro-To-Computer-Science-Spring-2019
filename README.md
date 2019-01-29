@@ -55,21 +55,21 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 - [Java SDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 - [Getting started](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/material/getting_started.pdf)
 <!-- - [Eclipse](https://www.eclipse.org/) -->
-<!-- - [Getting started Processing](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/getting_started_processing.pdf) -->
-<!-- - [Processing](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/material/processing.zip) -->
+<!-- - [Getting started Processing](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/material/getting_started_processing.pdf) -->
+<!-- - [Processing](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/material/processing.zip) -->
 
 ### Slides
-<!-- - [Welcome](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture1-welcome.pdf) -->
-<!-- - [Introduction](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture2-intro.pdf) -->
-<!-- - [Mathematical functions, characters, strings, looping](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture3-math.pdf) -->
-<!-- - [Methods](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture4-methods.pdf) -->
-<!-- - [Single dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture5-arrays.pdf) -->
-<!-- - [Two dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture6-ndarrays.pdf) -->
-<!-- - [Objects and classes](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture7-objects.pdf) -->
-<!-- - [Object oriented thinking](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture8-thinkingoo.pdf) -->
-<!-- - [Inheritance and Polymorphism](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture16.pdf) -->
-<!-- - [Abstract Classes and Interfaces](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture17.pdf) -->
-<!-- - [Exception and Text IO](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-2018/master/slides/lecture18.pdf) -->
+- [Welcome](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture1-welcome.pdf)
+<!-- - [Introduction](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture2-intro.pdf) -->
+<!-- - [Mathematical functions, characters, strings, looping](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture3-math.pdf) -->
+<!-- - [Methods](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture4-methods.pdf) -->
+<!-- - [Single dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture5-arrays.pdf) -->
+<!-- - [Two dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture6-ndarrays.pdf) -->
+<!-- - [Objects and classes](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture7-objects.pdf) -->
+<!-- - [Object oriented thinking](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture8-thinkingoo.pdf) -->
+<!-- - [Inheritance and Polymorphism](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture16.pdf) -->
+<!-- - [Abstract Classes and Interfaces](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture17.pdf) -->
+<!-- - [Exception and Text IO](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture18.pdf) -->
 
 
 ## Schedule and Course Notes:
@@ -79,7 +79,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 ### Part 1: Fundamentals of Programming
 | Lecture | Date | Topic | Chapter | Slides |
 |----|----|----|----|----|
-| 01 | 01/29/2019 | Introduction to computers, programs and Java, command line basics | 1 | |
+| 01 | 01/29/2019 | Introduction to computers, programs and Java, command line basics | 1 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture1-welcome.pdf) |
 | 02 | 01/31/2019 | Primitive data types, program structure, control flow, input/output| 2-3 | |
 | 03 | 02/05/2019 | Mathematical functions, characters, strings, looping| 4-5 ||
 |    | 02/07/2019 | Hands on | | |
