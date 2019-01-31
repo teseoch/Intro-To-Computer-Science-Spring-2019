@@ -60,7 +60,7 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 
 ### Slides
 - [Welcome](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture1-welcome.pdf)
-<!-- - [Introduction](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture2-intro.pdf) -->
+- [Introduction](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture2-intro.pdf)
 <!-- - [Mathematical functions, characters, strings, looping](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture3-math.pdf) -->
 <!-- - [Methods](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture4-methods.pdf) -->
 <!-- - [Single dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture5-arrays.pdf) -->
@@ -80,7 +80,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 | Lecture | Date | Topic | Chapter | Slides |
 |----|----|----|----|----|
 | 01 | 01/29/2019 | Introduction to computers, programs and Java, command line basics | 1 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture1-welcome.pdf) |
-| 02 | 01/31/2019 | Primitive data types, program structure, control flow, input/output| 2-3 | |
+| 02 | 01/31/2019 | Primitive data types, program structure, control flow, input/output| 2-3 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture2-intro.pdf) |
 | 03 | 02/05/2019 | Mathematical functions, characters, strings, looping| 4-5 ||
 |    | 02/07/2019 | Hands on | | |
 | 04 | 02/12/2019 | Methods | 6 | |
@@ -133,7 +133,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 | Number | Date | Due date| link |
 |----|----|----|----|
-
+| 01 | 01/31/2019 | 02/05/2019 | [Assignment 1](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/assignments/Assignment1.pdf) |
 
 
 
