@@ -82,7 +82,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 01 | 01/29/2019 | Introduction to computers, programs and Java, command line basics | 1 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture1-welcome.pdf) |
 | 02 | 01/31/2019 | Primitive data types, program structure, control flow, input/output| 2-3 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture2-intro.pdf) |
 | 03 | 02/05/2019 | Mathematical functions, characters, strings, looping| 4-5 |[Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture3-math.pdf)|
-|    | 02/07/2019 | Hands on | | |
+|    | 02/07/2019 | Hands on | | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/material/handson1.pdf)|
 | 04 | 02/12/2019 | Methods | 6 | |
 | 05 | 02/14/2019 | Methods | 6 | |
 | 06 | 02/19/2019 | Single dimensional arrays | 7 | |
@@ -121,7 +121,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 ## Hands on activities
 | Number | Date | Material |
 |----|----|----|
-| 01 | 02/07/2019 | |
+| 01 | 02/07/2019 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/material/handson1.pdf) [Triangle](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/material/Triangle.java) [MonteCarloPi](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/material/MonteCarloPi.java) |
 | 02 | 02/26/2019 | |
 | 03 | 03/07/2019 | |
 | 04 | 03/14/2019 | |
@@ -134,6 +134,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 | Number | Date | Due date| link |
 |----|----|----|----|
 | 01 | 01/31/2019 | 02/05/2019 | [Assignment 1](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/assignments/Assignment1.pdf) |
+| 02 | 02/07/2019 | 02/12/2019 | [Assignment 2](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/assignments/Assignment2.pdf) |
 
 
 
