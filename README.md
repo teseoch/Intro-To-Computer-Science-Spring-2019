@@ -62,7 +62,7 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 - [Welcome](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture1-welcome.pdf)
 - [Introduction](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture2-intro.pdf)
 - [Mathematical functions, characters, strings, looping](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture3-math.pdf)
-<!-- - [Methods](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture4-methods.pdf) -->
+- [Methods](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture4-methods.pdf)
 <!-- - [Single dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture5-arrays.pdf) -->
 <!-- - [Two dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture6-ndarrays.pdf) -->
 <!-- - [Objects and classes](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture7-objects.pdf) -->
@@ -83,8 +83,8 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 02 | 01/31/2019 | Primitive data types, program structure, control flow, input/output| 2-3 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture2-intro.pdf) |
 | 03 | 02/05/2019 | Mathematical functions, characters, strings, looping| 4-5 |[Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture3-math.pdf)|
 |    | 02/07/2019 | Hands on | | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/material/handson1.pdf)|
-| 04 | 02/12/2019 | Methods | 6 | |
-| 05 | 02/14/2019 | Methods | 6 | |
+| 04 | 02/12/2019 | Methods | 6 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture4-methods.pdf) |
+| 05 | 02/14/2019 | Single dimensional arrays | 7 | |
 | 06 | 02/19/2019 | Single dimensional arrays | 7 | |
 | 07 | 02/21/2019 | Two dimensional arrays | 8 | |
 |    | 02/26/2019 | Hands on | | |
