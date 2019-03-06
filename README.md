@@ -87,17 +87,17 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 05 | 02/14/2019 | Single dimensional arrays | 7 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture5-arrays.pdf) |
 | 06 | 02/19/2019 | Single dimensional arrays | 7 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture5-arrays.pdf) |
 | 07 | 02/21/2019 | Two dimensional arrays | 8 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture6-ndarrays.pdf) |
-|    | 02/26/2019 | Hands on | | |
+|    | 02/26/2019 | Hands on | | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/material/handson2.pdf) |
 | 08 | 02/28/2019 | Midterm 1 review | 1-8 | |
 | 09 | 03/05/2019 | Midterm 1 |  | |
 
 ### Part 2: Object oriented programming and design
 | Lecture | Date | Topic | Chapter | Slides |
 |----|----|----|----|----|
-|    | 03/07/2019 | Hands on | | |
-| 10 | 03/12/2019 | Objects and classes | 9 | |
-|    | 03/14/2019 | Hands on |  | |
-| 11 | 03/26/2019 | Midterm discussion | | |
+| 10 | 03/07/2019 | Objects and classes | 9 | |
+|    | 03/12/2019 | Hands on | | |
+|    | 03/14/2019 | Midterm discussion |  | |
+| 10 | 03/26/2019 | Objects and classes | 9 | |
 | 12 | 03/28/2019 | Object oriented thinking | 10 | |
 | 13 | 04/02/2019 | Object oriented thinking | 10 | |
 | 14 | 04/04/2019 | Midterm 2 review | 1-10 | |
