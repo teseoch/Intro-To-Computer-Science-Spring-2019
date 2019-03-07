@@ -65,7 +65,7 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 - [Methods](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture4-methods.pdf)
 - [Single dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture5-arrays.pdf)
 - [Two dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture6-ndarrays.pdf)
-<!-- - [Objects and classes](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture7-objects.pdf) -->
+- [Objects and classes](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture7-objects.pdf)
 <!-- - [Object oriented thinking](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture8-thinkingoo.pdf) -->
 <!-- - [Inheritance and Polymorphism](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture16.pdf) -->
 <!-- - [Abstract Classes and Interfaces](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture17.pdf) -->
@@ -94,7 +94,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 ### Part 2: Object oriented programming and design
 | Lecture | Date | Topic | Chapter | Slides |
 |----|----|----|----|----|
-| 10 | 03/07/2019 | Objects and classes | 9 | |
+| 10 | 03/07/2019 | Objects and classes | 9 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture7-objects.pdf) |
 |    | 03/12/2019 | Hands on | | |
 |    | 03/14/2019 | Midterm discussion |  | |
 | 10 | 03/26/2019 | Objects and classes | 9 | |
@@ -137,6 +137,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 02 | 02/07/2019 | 02/12/2019 | [Assignment 2](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/assignments/Assignment2.pdf) |
 | 03 | 02/14/2019 | 02/19/2019 | [Assignment 3](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/assignments/Assignment3.pdf) [Resources](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/assignments/Assignment3.txt) |
 | 04 | 02/21/2019 | 02/26/2019 | [Assignment 4](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/assignments/Assignment4.pdf) |
+| 05 | 03/07/2019 | 03/12/2019 | [Assignment 5](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/assignments/Assignment5.pdf) |
 
 
 
