@@ -56,7 +56,8 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 - [Getting started](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/material/getting_started.pdf)
 - [Eclipse](https://www.eclipse.org/)
 - [Getting started Processing](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/material/getting_started_processing.pdf)
-- [Processing](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/material/processing.zip)
+- [Core.jar](https://github.com/teseoch/Intro-To-Computer-Science-Spring-2019/blob/master/material/core.jar.zip?raw=true)
+- [Processing](https://processing.org/)
 
 ### Slides
 - [Welcome](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture1-welcome.pdf)
