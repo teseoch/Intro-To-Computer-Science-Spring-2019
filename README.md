@@ -124,7 +124,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 |----|----|----|
 | 01 | 02/07/2019 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/material/handson1.pdf) [Triangle](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/material/Triangle.java) [MonteCarloPi](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/material/MonteCarloPi.java) |
 | 02 | 02/26/2019 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/material/handson2.pdf)  [Game of Life](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/material/GOL.java) |
-| 03 | 03/07/2019 | |
+| 03 | 03/07/2019 | [Game of Life](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/material/GOLProcessing.zip)|
 | 04 | 03/14/2019 | |
 | 05 | 04/11/2019 | |
 | 06 | 04/30/2019 | |
@@ -139,6 +139,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 03 | 02/14/2019 | 02/19/2019 | [Assignment 3](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/assignments/Assignment3.pdf) [Resources](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/assignments/Assignment3.txt) |
 | 04 | 02/21/2019 | 02/26/2019 | [Assignment 4](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/assignments/Assignment4.pdf) |
 | 05 | 03/07/2019 | 03/12/2019 | [Assignment 5](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/assignments/Assignment5.pdf) |
+| 05 | 03/12/2019 | 03/14/2019 | [Assignment 6](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/assignments/Assignment6.pdf) |
 
 
 
