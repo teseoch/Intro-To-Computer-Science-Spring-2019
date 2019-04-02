@@ -67,7 +67,7 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 - [Single dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture5-arrays.pdf)
 - [Two dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture6-ndarrays.pdf)
 - [Objects and classes](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture7-objects.pdf)
-<!-- - [Object oriented thinking](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture8-thinkingoo.pdf) -->
+- [Object oriented thinking](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture8-thinkingoo.pdf)
 <!-- - [Inheritance and Polymorphism](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture16.pdf) -->
 <!-- - [Abstract Classes and Interfaces](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture17.pdf) -->
 <!-- - [Exception and Text IO](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture18.pdf) -->
@@ -98,9 +98,9 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 10 | 03/07/2019 | Objects and classes | 9 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture7-objects.pdf) |
 |    | 03/12/2019 | Hands on | | |
 |    | 03/14/2019 | Midterm discussion |  | |
-| 10 | 03/26/2019 | Objects and classes | 9 | |
-| 12 | 03/28/2019 | Object oriented thinking | 10 | |
-| 13 | 04/02/2019 | Object oriented thinking | 10 | |
+| 10 | 03/26/2019 | Objects and classes | 9 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture7-objects.pdf) |
+| 12 | 03/28/2019 | Object oriented thinking | 10 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture8-thinkingoo.pdf) |
+| 13 | 04/02/2019 | Object oriented thinking | 10 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture8-thinkingoo.pdf) [StackOfInt](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/material/StackOfInt.java)|
 | 14 | 04/04/2019 | Midterm 2 review | 1-10 | |
 | 15 | 04/09/2019 | Midterm 2 | | |
 
