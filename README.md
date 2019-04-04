@@ -101,7 +101,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 10 | 03/26/2019 | Objects and classes | 9 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture7-objects.pdf) |
 | 12 | 03/28/2019 | Object oriented thinking | 10 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture8-thinkingoo.pdf) |
 | 13 | 04/02/2019 | Object oriented thinking | 10 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture8-thinkingoo.pdf) [StackOfInt](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/material/StackOfInt.java)|
-| 14 | 04/04/2019 | Midterm 2 review | 1-10 | |
+| 14 | 04/04/2019 | Midterm 2 review | 1-10 | [CourseProfStud](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/material/CourseProfStud.zip) |
 | 15 | 04/09/2019 | Midterm 2 | | |
 
 ### Part 3: Advanced concepts
