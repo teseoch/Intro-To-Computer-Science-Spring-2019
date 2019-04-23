@@ -68,7 +68,7 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 - [Two dimensional arrays](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture6-ndarrays.pdf)
 - [Objects and classes](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture7-objects.pdf)
 - [Object oriented thinking](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture8-thinkingoo.pdf)
-<!-- - [Inheritance and Polymorphism](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture16.pdf) -->
+- [Inheritance and Polymorphism](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture9-polymorphism)
 <!-- - [Abstract Classes and Interfaces](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture17.pdf) -->
 <!-- - [Exception and Text IO](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture18.pdf) -->
 
@@ -108,9 +108,9 @@ The course schedule is tentative and *will* be adjusted along the way.
 
 | Lecture | Date | Topic | Chapter | Slides |
 |----|----|----|----|----|
-|    | 04/11/2019 | Hands on | ||
-| 16 | 04/16/2019 | Inheritance and polymorphism | 11 | |
-| 17 | 04/18/2019 | Inheritance and polymorphism and midterm discussion | 11 | |
+| 16   | 04/11/2019 | Inheritance and polymorphism | 11 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture9-polymorphism) |
+| 17 | 04/16/2019 | Inheritance and polymorphism | 11 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture9-polymorphism) |
+|    | 04/18/2019 | Midterm discussion |  | |
 | 18 | 04/23/2019 | Abstract classes and interfaces | 13 | |
 | 19 | 04/25/2019 | Abstract classes and interfaces | 13 | |
 |    | 04/30/2019 | Hands on | ||
@@ -143,6 +143,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 | Project | 03/14/2019 | 03/28/2019 | [Project](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/assignments/Project.pdf) |
 | 07 | 03/28/2019 | 04/02/2019 | [Assignment 7](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/assignments/Assignment7.pdf) |
 | 08 | 04/11/2019 | 04/16/2019 | [Assignment 8](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/assignments/Assignment8.pdf) |
+| 08 | 04/23/2019 | 04/30/2019 | [Assignment 9](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/assignments/Assignment9.pdf) |
 
 
 
