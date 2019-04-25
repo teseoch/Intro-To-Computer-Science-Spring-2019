@@ -69,7 +69,7 @@ Introduction to Computer Programming (CSCI-UA 2) or departmental permission asse
 - [Objects and classes](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture7-objects.pdf)
 - [Object oriented thinking](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture8-thinkingoo.pdf)
 - [Inheritance and Polymorphism](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture9-polymorphism.pdf)
-<!-- - [Abstract Classes and Interfaces](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture17.pdf) -->
+- [Abstract Classes and Interfaces](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture10-interfaces.pdf)
 <!-- - [Exception and Text IO](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture18.pdf) -->
 
 
@@ -111,8 +111,8 @@ The course schedule is tentative and *will* be adjusted along the way.
 | 16   | 04/11/2019 | Inheritance and polymorphism | 11 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture9-polymorphism.pdf) |
 | 17 | 04/16/2019 | Inheritance and polymorphism | 11 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture9-polymorphism.pdf) |
 |    | 04/18/2019 | Midterm discussion |  | |
-| 18 | 04/23/2019 | Abstract classes and interfaces | 13 | |
-| 19 | 04/25/2019 | Abstract classes and interfaces | 13 | |
+| 18 | 04/23/2019 | Abstract classes and interfaces | 13 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture10-interfaces.pdf) |
+| 19 | 04/25/2019 | Abstract classes and interfaces | 13 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture10-interfaces.pdf) |
 |    | 04/30/2019 | Hands on | ||
 | 20 | 05/02/2019 | Exception handling and text I/O | 12 | |
 | 21 | 05/07/2019 | Exception handling and text I/O | 12 | |
