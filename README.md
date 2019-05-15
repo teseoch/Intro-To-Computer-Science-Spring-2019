@@ -116,7 +116,7 @@ The course schedule is tentative and *will* be adjusted along the way.
 |    | 04/30/2019 | Hands on | ||
 | 20 | 05/02/2019 | Exception handling and text I/O | 12 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture11-exception-IO.pdf) |
 | 21 | 05/07/2019 | Exception handling and text I/O | 12 | [Slides](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/slides/lecture11-exception-IO.pdf) |
-| 22 | 05/09/2019 | Review for the final exam | 1-13, 18 | |
+| 22 | 05/09/2019 | Review for the final exam | 1-13, 18 | [Drawer](https://raw.githubusercontent.com/teseoch/Intro-To-Computer-Science-Spring-2019/master/material/draw.zip) |
 
 
 ## Hands on activities
